@@ -12,8 +12,6 @@ pacman -Syu --noconfirm \
 	libxext        \
 	libxpm         \
 	openal         \
-	pipewire-audio \
-	pipewire-jack  \
 	ttf-dejavu
 
 echo "Installing debloated packages..."
